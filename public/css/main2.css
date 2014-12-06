@@ -1,0 +1,51 @@
+body{
+    color:#000;
+    font-family: 'Lato', sans-serif;
+    background-color:#d5d5d5;
+}
+
+
+.name{
+    font-size:1.2em;
+}
+
+.menu-sidebar {
+    background-color:#34495e;
+    height: 900px;
+ }
+
+.menu {
+    list-style: none;
+    color:#FFF;
+    margin-right:50px;
+}
+
+.menu li {
+    font-size:1.5em;
+    text-align:center;
+    height:30px;
+    padding:40px 0px;
+}
+
+.content{
+    background-color:#FFF;
+    padding:100px 60px 0 60px;
+    height:900px;
+}
+
+.name {
+    color:#FFF;
+    text-align:center;
+}
+
+.image-menu {
+    width: 130px;
+    height: 130px;
+    border-radius: 65px;
+    -webkit-border-radius: 65px;
+    -moz-border-radius: 65px;
+    margin:20px auto;
+    background: url(../images/menu.JPG) no-repeat;
+    background-size: cover;
+    margin-bottom:0px;
+}

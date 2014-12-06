@@ -1,0 +1,41 @@
+body {
+    color: #000;
+    font-family: 'Lato', sans-serif;
+    background-color:#d5d5d5;
+}
+
+.main-container {
+    background-color: #FFF;
+    height:900px;
+    padding:0px;
+}
+
+.content-container {
+    padding: 0 45px;
+    width:100%;
+}
+
+.navbar-default {
+    border-style: none;
+    border-radius:0px;
+}
+
+.navbar-default .navbar-brand{
+    color:#FFF;
+}
+
+.navbar-default{
+    background: url(../images/menu2.png) no-repeat;
+    background-size: cover;
+}
+
+.footer {
+    width:100%;
+    position: absolute;
+    bottom: 0;
+    height: 80px;
+    background-color:#F9F9F9;
+    border-top-style: solid;
+    border-top-width: 0.1em;
+    border-top-color: #C9C9C9;
+}
