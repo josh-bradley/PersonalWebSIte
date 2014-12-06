@@ -27,6 +27,8 @@ body {
 .navbar-default{
     background: url(../images/menu2.png) no-repeat;
     background-size: cover;
+    height:150px;
+    background-position-y:-100px;
 }
 
 .footer {
